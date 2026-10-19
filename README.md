@@ -27,10 +27,6 @@ The project uses the `USA_Housing.csv` dataset. The notebook and dataset should 
 - `main.css` — Styling for the web interface
 - `pf` — Model file; format and purpose to be verified
 
-📚 Original Source and Acknowledgements
-This repository is based on the project by Vineet Kukreti.
-
-Original repository: https://github.com/vineetkukreti/Housepricingpredictio
 
 This project is being used as a learning exercise. Further validation and improvements will be made to understand the model, its evaluation, and the web interface.
 
